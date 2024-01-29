@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/itsmear11" target="blank"><img src="https://img.shields.io/twitter/follow/itsmear11?logo=twitter&style=for-the-badge" alt="itsmear11" /></a> </p>
 
-- 🔭 I’m currently working on **Xpress - Blog App**
+- 🔭 I’m currently working on **FinTech App**
 
 - 👨‍💻 All of my projects are available at [github.com/ayushranjan1820](github.com/ayushranjan1820)
 
-- 💬 Ask me about **react, mongoDB, CSS, node, express..**
+- 💬 Ask me about ** javaScript, react, mongoDB, CSS, node, express,..**
 
 - 📫 How to reach me **ayushranjan1120@gmail.com**
 
