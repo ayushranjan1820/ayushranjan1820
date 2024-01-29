@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FinTech App**
 
-- 👨‍💻 All of my projects are available at [github.com/ayushranjan1820](github.com/ayushranjan1820)
+- 👨‍💻 All of my projects are available at [github.com/ayushranjan1820](https://github.com/ayushranjan1820/ayushranjan1820)
 
 - 💬 Ask me about ** javaScript, react, mongoDB, CSS, node, express,..**
 
