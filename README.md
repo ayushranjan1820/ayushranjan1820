@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Ranjan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/itsmear11" target="blank"><img src="https://img.shields.io/twitter/follow/itsmear11?logo=twitter&style=for-the-badge" alt="itsmear11" /></a> </p>
 
