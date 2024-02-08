@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Ranjan</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/itsmear11" target="blank"><img src="https://img.shields.io/twitter/follow/itsmear11?logo=twitter&style=for-the-badge" alt="itsmear11" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **GCP**
 
 - 👨‍💻 All of my projects are available at [github.com/ayushranjan1820](https://github.com/ayushranjan1820)
 
