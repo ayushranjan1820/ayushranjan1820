@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ayushranjan1820](https://github.com/ayushranjan1820)
 
-- 💬 Ask me about **javaScript, react, mongoDB, SQL, CSS, node, express,..**
+- 💬 Ask me about **javaScript, react, mongoDB, SQL, CSS, node, express,HTML, Python..**
 
 - 📫 How to reach me **ayushranjan1120@gmail.com**
 
