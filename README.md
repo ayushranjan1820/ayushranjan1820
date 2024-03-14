@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
 🔭 I’m currently working on Social Media App<br>👯 I’m looking to collaborate on Projects, Tech articles<br>🌱 I’m currently learning Cloud, GCP<br>💬 Ask me about JavaScript, SQL, Python, React, Node.js, MongoDB, Cloud,..
 
 
