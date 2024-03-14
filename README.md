@@ -1,5 +1,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
+<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
 🔭 I’m currently working on Social Media App<br>👯 I’m looking to collaborate on Projects, Tech articles<br>🌱 I’m currently learning Cloud, GCP<br>💬 Ask me about JavaScript, SQL, Python, React, Node.js, MongoDB, Cloud,..
 
 
