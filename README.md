@@ -5,7 +5,7 @@
 🔭 I’m currently working on Social Media App<br>👯 I’m looking to collaborate on Projects, Tech articles<br>🌱 I’m currently learning Cloud, GCP<br>💬 Ask me about JavaScript, SQL, Python, React, Node.js, MongoDB, Cloud,GCP,..
 
 <br/>
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayushranjan11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/itsmeAR11) 
 <br/>
 
