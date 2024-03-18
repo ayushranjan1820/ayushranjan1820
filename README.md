@@ -2,7 +2,7 @@
 
 <div size='20px'> Hi! My name is Ayush. Thank You for visiting!</div>
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-🔭 I’m currently working on Social Media App<br>👯 I’m looking to collaborate on Projects, Tech articles<br>🌱 I’m currently learning Cloud, GCP<br>💬 Ask me about JavaScript, SQL, Python, React, Node.js, MongoDB, Cloud,..
+🔭 I’m currently working on Social Media App<br>👯 I’m looking to collaborate on Projects, Tech articles<br>🌱 I’m currently learning Cloud, GCP<br>💬 Ask me about JavaScript, SQL, Python, React, Node.js, MongoDB, Cloud,GCP,..
 
 <br/>
 ## 🌐 Socials:
